@@ -3,6 +3,7 @@ Pixel arts of Aether Gazer, create by me.
 
 ## 修正者等級圖標（256x256）
 
+![](level_c.png)
 ![](level_b.png)
 ![](level_a.png)
 ![](level_s.png)
